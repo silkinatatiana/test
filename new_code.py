@@ -1,2 +1,2 @@
 def new_function():
-    print('Снова меняем код')
+  print('Снова меняем код')
